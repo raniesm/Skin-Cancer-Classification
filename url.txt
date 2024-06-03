@@ -1,0 +1,4 @@
+Colab P2G7_ranie_sita.ipynb: https://colab.research.google.com/drive/1wUIbNQ1u7WSKEW8om4GzsK0sZ44X4FMF#scrollTo=dd2B6fYVMhdY
+Colab P2G7_ranie_sita_inference.ipynb: https://colab.research.google.com/drive/1XhskMyaB_yCdWLTMfMgS0wUs_wescaWx#scrollTo=_dyG2cjZqF3C
+Kaggle dataset: https://www.kaggle.com/datasets/jaiahuja/skin-cancer-detection
+Deployment: 
